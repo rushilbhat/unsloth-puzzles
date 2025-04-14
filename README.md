@@ -3,7 +3,7 @@
 ### Solution notebook
 https://colab.research.google.com/github/rushilbhat/unsloth-puzzles/blob/main/Unsloth_Puzzles.ipynb
 
-**Note**: This notebook was run on a T4 instance.
+**Note**: Tasks C and E were run on a T4 instance. Task A was run on an A100 instance for bf16 support.
 
 #### Instructions to Run the Notebook
 
